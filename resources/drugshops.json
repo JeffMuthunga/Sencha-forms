@@ -1,0 +1,185 @@
+{
+    "drugshops": [
+      {
+        "referenceNo": "REF001",
+        "premisesName": "ABC Store",
+        "physicalAddress": "123 Main Street",
+        "regionName": "Nairobi",
+        "dateAdded": "2023-10-18",
+        "submissionDate": "2023-10-20",
+        "status": "approved"
+      },
+      {
+        "referenceNo": "REF002",
+        "premisesName": "XYZ Restaurant",
+        "physicalAddress": "456 Park Avenue",
+        "regionName": "Mombasa",
+        "dateAdded": "2023-10-18",
+        "submissionDate": "2023-10-21",
+        "status": "denied"
+      },
+      {
+        "referenceNo": "REF003",
+        "premisesName": "PQR Mall",
+        "physicalAddress": "789 Shopping Road",
+        "regionName": "Nairobi",
+        "dateAdded": "2023-10-19",
+        "submissionDate": "2023-10-22",
+        "status": "approved"
+      },
+      {
+        "referenceNo": "REF004",
+        "premisesName": "LMN Hotel",
+        "physicalAddress": "101 Resort Boulevard",
+        "regionName": "Nairobi",
+        "dateAdded": "2023-10-19",
+        "submissionDate": "2023-10-23",
+        "status": "denied"
+      },
+      {
+        "referenceNo": "REF005",
+        "premisesName": "EFG Café",
+        "physicalAddress": "246 Coffee Lane",
+        "regionName": "Kisumu",
+        "dateAdded": "2023-10-20",
+        "submissionDate": "2023-10-24",
+        "status": "approved"
+      },
+      {
+        "referenceNo": "REF006",
+        "premisesName": "HIJ Pharmacy",
+        "physicalAddress": "369 Healthcare Drive",
+        "regionName": "Nairobi",
+        "dateAdded": "2023-10-20",
+        "submissionDate": "2023-10-25",
+        "status": "denied"
+      },
+      {
+        "referenceNo": "REF007",
+        "premisesName": "WXY Gym",
+        "physicalAddress": "585 Fitness Street",
+        "regionName": "Nairobi",
+        "dateAdded": "2023-10-21",
+        "submissionDate": "2023-10-26",
+        "status": "approved"
+      },
+      {
+        "referenceNo": "REF008",
+        "premisesName": "OPQ Bakery",
+        "physicalAddress": "787 Baking Avenue",
+        "regionName": "Eldoret",
+        "dateAdded": "2023-10-21",
+        "submissionDate": "2023-10-27",
+        "status": "denied"
+      },
+      {
+        "referenceNo": "REF009",
+        "premisesName": "LMN Hotel",
+        "physicalAddress": "101 Resort Boulevard",
+        "regionName": "Nairobi",
+        "dateAdded": "2023-10-22",
+        "submissionDate": "2023-10-28",
+        "status": "approved"
+      },
+      {
+        "referenceNo": "REF010",
+        "premisesName": "EFG Café",
+        "physicalAddress": "246 Coffee Lane",
+        "regionName": "Kisumu",
+        "dateAdded": "2023-10-22",
+        "submissionDate": "2023-10-29",
+        "status": "denied"
+      },
+      {
+        "referenceNo": "REF011",
+        "premisesName": "HIJ Pharmacy",
+        "physicalAddress": "369 Healthcare Drive",
+        "regionName": "Nairobi",
+        "dateAdded": "2023-10-23",
+        "submissionDate": "2023-10-30",
+        "status": "approved"
+      },
+      {
+        "referenceNo": "REF012",
+        "premisesName": "WXY Gym",
+        "physicalAddress": "585 Fitness Street",
+        "regionName": "Nairobi",
+        "dateAdded": "2023-10-23",
+        "submissionDate": "2023-10-31",
+        "status": "denied"
+      },
+      {
+        "referenceNo": "REF013",
+        "premisesName": "OPQ Bakery",
+        "physicalAddress": "787 Baking Avenue",
+        "regionName": "Eldoret",
+        "dateAdded": "2023-10-24",
+        "submissionDate": "2023-11-01",
+        "status": "approved"
+      },
+      {
+        "referenceNo": "REF014",
+        "premisesName": "JKL Bookstore",
+        "physicalAddress": "932 Book Street",
+        "regionName": "Nairobi",
+        "dateAdded": "2023-10-24",
+        "submissionDate": "2023-11-02",
+        "status": "denied"
+      },
+      {
+        "referenceNo": "REF015",
+        "premisesName": "STU Electronics",
+        "physicalAddress": "743 Tech Road",
+        "regionName": "Nairobi",
+        "dateAdded": "2023-10-25",
+        "submissionDate": "2023-11-03",
+        "status": "approved"
+      },
+      {
+        "referenceNo": "REF016",
+        "premisesName": "VWX Restaurant",
+        "physicalAddress": "639 Dine Street",
+        "regionName": "Nairobi",
+        "dateAdded": "2023-10-25",
+        "submissionDate": "2023-11-04",
+        "status": "denied"
+      },
+      {
+        "referenceNo": "REF017",
+        "premisesName": "GHI Pet Store",
+        "physicalAddress": "823 Pet Lane",
+        "regionName": "Nairobi",
+        "dateAdded": "2023-10-26",
+        "submissionDate": "2023-11-05",
+        "status": "approved"
+      },
+      {
+        "referenceNo": "REF018",
+        "premisesName": "MNO Coffee Shop",
+        "physicalAddress": "527 Java Avenue",
+        "regionName": "Nairobi",
+        "dateAdded": "2023-10-26",
+        "submissionDate": "2023-11-06",
+        "status": "denied"
+      },
+      {
+        "referenceNo": "REF019",
+        "premisesName": "ABC Store",
+        "physicalAddress": "123 Main Street",
+        "regionName": "Nairobi",
+        "dateAdded": "2023-10-27",
+        "submissionDate": "2023-11-07",
+        "status": "approved"
+      },
+      {
+        "referenceNo": "REF020",
+        "premisesName": "XYZ Restaurant",
+        "physicalAddress": "456 Park Avenue",
+        "regionName": "Mombasa",
+        "dateAdded": "2023-10-27",
+        "submissionDate": "2023-11-08",
+        "status": "denied"
+      }
+    ]
+  }
+  
